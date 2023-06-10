@@ -1,0 +1,4 @@
+1 unzip /path/to/ngrok.zip
+2 ngrok config add-authtoken 2R0VzWiPmKGZ3fGLnBWaMvVHfSh_2Bt7DRQV5LmdyXmFnpXUc
+3 ngrok help
+4 ngrok http 80
