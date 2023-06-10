@@ -1,0 +1,10 @@
+#########install seeker pour lq geolocalisation #######
+
+git clone https://github.com/thewhiteh4t/seeker.git
+cd seeker/
+chmod +x install.sh
+./install.sh
+
+## Usage  ###
+
+python3 seeker.py -h
